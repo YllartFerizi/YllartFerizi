@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YllartFerizi
 - 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently learning Python's Pandas,Numpy and matplotlib
-- 📫 How to reach me feriziyllart@gmail.com
+- 📫 How to reach me: feriziyllart@gmail.com
